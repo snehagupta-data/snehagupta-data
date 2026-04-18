@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **snehagupta.contact@gmail.com** For Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** End-to-end Data Analytics projects like *LendX Finance – Loan Portfolio Performance & Risk Analytics (SQL + Power BI)*
+- 🔭 **I’m currently working on:** Cartly: E-Commerce Conversion Funnel & User Behavior Analysis*
 - 🌱 **I’m currently learning:** Advanced Power BI (DAX, Data Modeling), SQL optimization, and Python for Data Analytics  
 - 👯 **I’m looking to collaborate on:** Data Analytics & BI dashboard projects (Power BI, SQL-based analytics, real-world case studies)  
 - 🤔 **I’m looking for help with:** Building advanced data analytics projects, interview preparation, and improving dashboard storytelling  
