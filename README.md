@@ -3,13 +3,39 @@
 
 Email Me 👉 ✉️ **snehagupta.contact@gmail.com** For Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Cartly: E-Commerce Conversion Funnel & User Behavior Analysis*
-- 🌱 **I’m currently learning:** Advanced Power BI (DAX, Data Modeling), SQL optimization, and Python for Data Analytics  
-- 👯 **I’m looking to collaborate on:** Data Analytics & BI dashboard projects (Power BI, SQL-based analytics, real-world case studies)  
-- 🤔 **I’m looking for help with:** Building advanced data analytics projects, interview preparation, and improving dashboard storytelling  
-- 💬 **Ask me about:** SQL, Power BI dashboards, Data Analytics projects, and portfolio building  
-- 📫 **How to reach me:** snehagupta.contact@gmail.com  
-- ⚡ **Fun fact:** I love turning raw data into meaningful insights that tell a story 🚀
+📊 I build end-to-end analytics projects that combine business thinking with technical analysis. My work includes:
+
+- 💰 Lending risk and loan portfolio analysis
+- 🛒 E-commerce profitability and customer behavior analysis
+- 🧪 Discount-framing A/B testing
+- 🧾 SQL analysis of more than 100,000 orders
+- 🏥 Healthcare and operational dashboards
+
+🛠️ My usual workflow starts with a business question and continues through data modelling, validation, exploratory analysis, statistical testing, dashboard development, and recommendations.
+
+💻 **Tools I work with:**  
+`SQL` · `PostgreSQL` · `Python` · `Pandas` · `Power BI` · `DAX` · `Power Query` · `Excel` · `Statistics`
+
+🔍 I enjoy investigating questions such as:
+
+- 📈 Why is revenue growing while profit remains flat?
+- 🎯 Which customer segments create the most value?
+- 💳 Which loan products carry the highest risk?
+- 🧪 Which offer or campaign performs better?
+- 📊 How can complex data be presented clearly to decision-makers?
+
+📝 I believe good analytics is not only about writing queries or creating attractive dashboards. It is also about asking the right questions, explaining the findings clearly, acknowledging limitations, and turning analysis into practical recommendations. My projects use synthetic datasets where applicable, and I clearly document the assumptions behind each analysis.
+
+🎓 **B.Sc. Data Science**  
+🏫 Annasaheb Vartak College · Final Year · CGPA: **8.8**
+
+📍 **Based in:** Mumbai, India  
+🚀 **Open to:** Data Analyst and BI Analyst opportunities  
+📫 **Email:** [snehagupta.contact@gmail.com](mailto:snehagupta.contact@gmail.com)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sneha-gupta-analyst/)  
+🐙 **GitHub:** [Explore my projects](https://github.com/snehagupta-data)
+
+⚡ **Fun fact:** I enjoy turning messy datasets into clear stories, useful dashboards, and insights that are easy for anyone to understand.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/snehagupta-analyst) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@snehagupta-contact) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehagupta.contact@gmail.com) 
